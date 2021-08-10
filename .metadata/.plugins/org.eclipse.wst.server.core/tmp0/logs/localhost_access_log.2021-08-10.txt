@@ -1,0 +1,17 @@
+127.0.0.1 - - [10/Aug/2021:15:31:15 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [10/Aug/2021:16:51:18 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:16:51:24 +0530] "GET /spring-security-demo/ HTTP/1.1" 200 188
+127.0.0.1 - - [10/Aug/2021:17:39:11 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:17:39:14 +0530] "GET /spring-security-demo/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:17:39:14 +0530] "GET /spring-security-demo/login HTTP/1.1" 200 1427
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:17:39:36 +0530] "POST /spring-security-demo/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:17:39:36 +0530] "GET /spring-security-demo/login?error HTTP/1.1" 200 1493
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:17:39:42 +0530] "POST /spring-security-demo/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:17:39:44 +0530] "GET /spring-security-demo/ HTTP/1.1" 200 188
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:17:39:51 +0530] "GET /spring-security-demo/login?error HTTP/1.1" 200 1497
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:17:40:46 +0530] "GET /spring-security-demo/login HTTP/1.1" 200 1427
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:17:40:52 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:17:40:55 +0530] "POST /spring-security-demo/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:17:40:55 +0530] "GET /spring-security-demo/login?error HTTP/1.1" 200 1493
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:17:41:04 +0530] "POST /spring-security-demo/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:17:41:04 +0530] "GET /spring-security-demo/ HTTP/1.1" 200 188

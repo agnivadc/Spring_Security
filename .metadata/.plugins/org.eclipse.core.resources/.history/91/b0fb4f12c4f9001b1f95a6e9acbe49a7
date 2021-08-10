@@ -1,0 +1,5 @@
+package com.agniva.springsecurity.demo.config;
+
+public class DemoAppConfig {
+
+}
