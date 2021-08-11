@@ -1,14 +1,6 @@
 INDEX VERSION 1.131+D:\Udemy\Spring\Spring_Security\.metadata\.plugins\org.eclipse.jdt.core
-2003516475.index
 2138320008.index
 2490113795.index
-2539158006.index
-2470290935.index
-1332030302.index
-3444822320.index
-926225957.index
+611137908.index
 2281670709.index
-1822644693.index
 2271627155.index
-3985021932.index
-4275210458.index
